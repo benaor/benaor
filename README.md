@@ -27,6 +27,7 @@ As an active **open-source contributor** at [Gemwallet](https://github.com/Gemwa
 
 ## 🛠️ Technologies & Skills
 
+-**Platforms:** ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 - **Languages:** 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=Swift&logoColor=white)
 - **Frameworks & Libraries:** ![React Native](https://img.shields.io/badge/-React--native-blue?logo=react) ![Expo](https://img.shields.io/badge/-Expo-000000?logo=expo) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux) 
