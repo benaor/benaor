@@ -1,6 +1,6 @@
 # Hi there, I'm Benjamin 👋
 
-### Frontend Developer | React Native Expert | Blockchain Enthusiast
+### Frontend developer | React native expert | Mobile apps builder | Swift lover
 
 
 ## 🔹 About Me
